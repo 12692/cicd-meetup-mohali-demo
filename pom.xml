@@ -41,6 +41,9 @@
 						<workers> ${workers}</workers>
 						<region> ${region} </region>
 						<objectStoreV2>true</objectStoreV2>
+						<properties>
+  <mule.key>value</mule.key>
+</properties>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
