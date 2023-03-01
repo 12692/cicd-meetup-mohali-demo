@@ -21,6 +21,6 @@ output application/java
 			</ee:message>
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="54d13b57-e21f-4e6d-9168-a9e81963abad" message="#[payload]"/>
-		<logger level="INFO" doc:name="Logger" doc:id="e178e1e7-eeda-4f1a-9ecd-6fb5e48a8f7e" message="THANK YOU"/>
+		<logger level="INFO" doc:name="Logger" doc:id="e178e1e7-eeda-4f1a-9ecd-6fb5e48a8f7e" message="THANK YOU TEAM"/>
 	</flow>
 </mule>
